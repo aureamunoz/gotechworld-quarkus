@@ -39,7 +39,7 @@ cheaper than the last one.
 ## Tools shown
 
 - [`quarkus update`](https://quarkus.io/guides/update-quarkus) — rule-based recipe engine for Quarkus version upgrades
-- [migrate-spring-to-quarkus skill](https://github.com/quarkusio/skills/tree/main/skills/migrate-spring-to-quarkus) — open-source AI skill for Claude Code
+- [migrate-spring-to-quarkus skill](https://github.com/quarkusio/skills/tree/main/skills/migrate-spring-to-quarkus) — open-source AI skill 
 - [quarkit (migration-tool)](https://github.com/snowdrop/migration-tool) — deterministic validators exposed as an MCP server
 - [Spring PetClinic](https://github.com/spring-projects/spring-petclinic) — the demo app we migrate
 
