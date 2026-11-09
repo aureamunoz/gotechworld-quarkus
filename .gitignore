@@ -1,0 +1,9 @@
+target/
+*.mov
+*.mp4
+.DS_Store
+.idea/
+.vscode/
+*.iml
+.qodo/
+20261102.txt
